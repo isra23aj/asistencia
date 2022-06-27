@@ -1,0 +1,33 @@
+----------USUARIO----------
+*Usuario solo ingresa con su código designado
+*El sistema debe estar habilitado media hora antes y despues de sus entradas y salidas
+*El usuario debe marcar una sola vez para cada entrada y salida
+*En caso de que marque por error dos entradas (o dos salidas), la segunda marcacion no debe ser para la siguiente marcación, se debe restringir ese caso
+*Los trabajadores con horario continuo solo deben marcar dos veces, una entrada en la mañana y otra en la tarde
+*Se debe habilitar una funcion para el caso que todos los trajadores cambien en un horario continuo
+
+
+
+
+
+----------ADMINISTRADOR----------
+*Tener login de entrada al sistema
+*Actualizar, dar de alta o baja a los distintos registros
+*Debe obtener reportes de las asistencias de trabajo (por apellido, por area, por departamento, por dia, por mes, por semanas, etc.)
+*Debe obtener listado de trabajadores que llegaron retrasados
+*Debe agregar y tener listado de trabajadores que piden permiso
+
+
+
+
+----------TESTAMENTO xD----------
+Hola Sara, no me da cosas admitir que realmente se me fue la practica, conceptos quizas hasta basicos y demas en lo que respecta a la programción, se que debo practicar y recordar varias cosas para hacer un buen trabajo. Creo aún tener algo de lógica pero como implementarlo ahi mi gran problema, bueno como cualquier otro que no practica por bastante tiempo se le va todo facilmente.
+Asi que si ves errores que tendria que cometer alguien que recien esta ingresando al mundo de la programación, estas en tu derecho de desilusionarte y hacerme bullying xD.
+
+https://www.youtube.com/watch?v=Xb3iMSfmJ1k&t=924s&ab_channel=Inform%C3%A1ticaDP
+Este es el tuto con el que me estaba "guiando" para quizas apurarme y mostar avance al pinche del Velasquez. A parte para que te des una idea como estoy haciendo.
+
+Las materias teóricas y practicas sin programación me fue y esta yendo bien, pero a esta altura con el desarrollo de un sistema, avanzo algo bien, pero alguito se me presenta, más aun con cosas basicas que deberia saber y me viene una impotencia de no poder, recordar o volver a lo básico y me dan ganas de tirarlo todo y de una repetir. Intentaré hasta lo ultimo con el chaparro, tengo fe que aunque con 51 pero aprobaré, en el peor de los casos, tambien aceptaré lo que ocurra.  
+
+Y en serio gracias Sara por toda ayuda mucha o poca que me puedas dar estas ultimas semanas.
+PD: la BD esta como asistencia.sql y mis tablas son "areas, turnos, biometricos, departamentos, empleados, permisos, registros, retrasos, multas y horas extras" los demas son de craftable. No encuentro mi diagrama pero en fotito (diagrama.jpge)al menos xD 
